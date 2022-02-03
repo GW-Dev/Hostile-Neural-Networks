@@ -26,6 +26,14 @@
 		{
 			"item": "minecraft:stone_sword",
 			"count": 1
+		},
+		{
+			"item": "malum:wicked_spirit",
+			"count": 5
+		},
+		{
+			"item": "malum:eldritch_spirit",
+			"count": 5
 		}
 	]
 }

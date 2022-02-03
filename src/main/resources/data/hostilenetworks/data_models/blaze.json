@@ -18,6 +18,10 @@
 		{
 			"item": "minecraft:blaze_rod",
 			"count": 10
+		},
+		{
+			"item": "malum:infernal_spirit",
+			"count": 5
 		}
 	]
 }

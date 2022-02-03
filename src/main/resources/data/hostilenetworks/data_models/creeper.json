@@ -22,6 +22,11 @@
 		{
 			"item": "minecraft:creeper_head",
 			"count": 4
+		},
+		{
+			"item": "malum:aerial_spirit",
+			"count": 5
+
 		}
 	]
 }
